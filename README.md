@@ -191,3 +191,8 @@ Some ideas for future versions:
 - Battery voltage monitoring
 - Display encouragement messages during the race
 - Display animations
+
+## Development
+
+All Arduino code in this project was written by Claude (Anthropic).
+
